@@ -1,2 +1,2 @@
 # gitdemo
-Demo github repo for 301
+Demo of git commands for Wednesday lab.
